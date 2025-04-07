@@ -1,9 +1,7 @@
 # trc20
 
-TUJHCXigibvetGw3UpQvvgJUrtGjpgSRXB
-
 
 # erc20
 
-0x6b621a6a3cea222eed1c3f201f00085eedaebd92
+0x33992fde5C86c07f3045Bb5F52Bd017A44A03549
 
